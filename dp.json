@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Susena",
+      "lastName": "Sekar",
+      "email": "Susena22@gmail.com",
+      "number": "9698156145"
+    },
+    {
+      "firstName": "rakesh",
+      "lastName": "Kumar",
+      "email": "rakesh@12345",
+      "number": "7896541235",
+      "id": 2
+    },
+    {
+      "firstName": "bala",
+      "lastName": "subramani",
+      "email": "bala@subramaniam",
+      "number": "9874785555",
+      "id": 3
+    },
+    {
+      "firstName": "Dhoni",
+      "lastName": "Something",
+      "email": "new@12345",
+      "number": "997456325",
+      "id": 5
+    },
+    {
+      "firstName": "Niroop",
+      "lastName": "bala",
+      "email": "nirooop@123",
+      "number": "7896541230",
+      "id": 6
+    },
+    {
+      "firstName": "Kumar",
+      "lastName": "ramasamy",
+      "email": "kumar@ramasamy1234",
+      "number": "7896541235",
+      "id": 8
+    },
+    {
+      "firstName": "Dev",
+      "lastName": "Raj",
+      "email": "Devraj@22gmail.com",
+      "number": "9874563215",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
